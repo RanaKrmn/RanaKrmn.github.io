@@ -3,3 +3,6 @@ ul{
     background-color: chartreuse;
     color: aqua;
 }
+
+li a{display: block;}
+
