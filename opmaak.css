@@ -11,8 +11,8 @@ ul{
     padding: 0;
     color: white;
 }
-ul li{
-    float: left;
+ul li a:hover{
+    background-color: whitesmoke;
 }
 
 
