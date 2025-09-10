@@ -6,6 +6,8 @@ ul{
     background-color: chartreuse;
     margin: 20px; ;
     display: block;
+    margin: 0;
+    padding: 0;
 }
 
 
