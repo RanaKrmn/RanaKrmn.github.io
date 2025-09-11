@@ -3,14 +3,14 @@ h1{color: red;
 /* Dit is commentaar voor css*/
 
 }
-ul{
+ul {
     list-style-type: none;
-    background-color: firebrick;
-    display: block;
     margin: 0;
     padding: 0;
-
+    overflow: hidden;
+    background-color: #333333;
 }
+
 
 
 
