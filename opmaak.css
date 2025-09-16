@@ -11,11 +11,12 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #8e4083;
+    position: fixed;
 }
 
 ul li {
     float: left;
-    position: fixed;
+
 }
 
 ul li a {
