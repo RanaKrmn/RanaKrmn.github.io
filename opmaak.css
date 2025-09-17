@@ -32,6 +32,13 @@ ul li a:hover {
 }
 
 
-#p1{width: 50%;}
+#p1{
+    width: 50%;
+}
 
+#eten{
+    float: right;
+    width: 50%;
+    height: 50%;
+}
 
