@@ -33,9 +33,10 @@ ul li a:hover {
 
 
 #p1{
-    width: 50%;
+    width: 75%;
     float: left;
     border-style:double;
+    border-radius: 75%;
 
 }
 
