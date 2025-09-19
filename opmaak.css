@@ -33,7 +33,8 @@ ul li a:hover {
 
 
 #p1{
-    display: block;
+    width: 50%;
+    float: left;
 }
 
 #muziek{
