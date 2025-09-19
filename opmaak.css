@@ -41,7 +41,7 @@ ul li a:hover {
 }
 
 #muziek{
-    float: right;
+    float: inline-start;
     width: 25%;
     height: 25%;
 }
