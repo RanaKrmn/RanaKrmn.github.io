@@ -40,10 +40,9 @@ ul li a:hover {
 }
 
 #muziek{
-    float:inline-start;
-    margin-left:auto;
+    float:right;
     width: 20%;
-    height: 20%;
+    height: auto;
     
 }
 
