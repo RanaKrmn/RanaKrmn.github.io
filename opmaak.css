@@ -39,11 +39,12 @@ ul li a:hover {
     width: 50%;
     float: left;
     border-style:double;
+    margin-left: 50px;
 }
 
 #muziek{
     float:right;
-    margin-right: 75px;
+    margin-right: 95px;
     width: 20%;
     height: auto;
     
