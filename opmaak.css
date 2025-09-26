@@ -35,13 +35,13 @@ ul li a:hover {
 /*opmaak tekst en afbeelding homepage*/
 #p1{
     font-family: 'Times New Roman', Times, serif;
-    border-style: double;
+    border-style: groove;
     border-color: #8e4083;
 }
 
 #p2{
     font-family: 'Times New Roman', Times, serif;
-    border-style: double;
+    border-style: groove;
     border-color: #8e4083;
 }
 
