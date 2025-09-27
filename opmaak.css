@@ -38,26 +38,45 @@ div{
     border-color: #8e4083; /*Kleur van de border*/
 }
 
-#pcom{ /*Opmaak van <div> in het bestand compressie*/
-    font-family: 'Times New Roman', Times, serif; 
-    border-style: solid; 
-    border-color: #8e4083; 
-    width: 50%;
-    float: left;
 
-}
-
-/*opmaak van index pagina.*/
+/*opmaak van index bestand.*/
 #p1{
     font-family: 'Times New Roman', Times, serif;
     border-style: solid;
     border-color: #8e4083;
     width: 50%;
 }
+/*Opmaak van binair stelsel bestand.*/
+
+
+
+
+/*Opmaak van kleurmodel bestand*/
+table, td, th{
+    border: 1px solid;
+    border-color: #8e4083;
+    float: right;
+
+}
+table{
+    border-collapse: collapse;
+}
+
+
+
+
 
 /*Opmaak van compressie bestand.*/
 #ul2{ /*Dit zijn de bullet points in het compressie bestand*/
     list-style-type: disc;
+}
+
+#pcom{ /*Opmaak van <div> in het bestand compressie*/
+    font-family: 'Times New Roman', Times, serif; 
+    border-style: solid; 
+    border-color: #8e4083; 
+    width: 50%;
+    float: left;
 }
 
 
