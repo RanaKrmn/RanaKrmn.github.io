@@ -33,9 +33,9 @@ ul li a:hover {
 }
 
 div{
-    font-family: 'Times New Roman', Times, serif;
-    border-style: solid;
-    border-color: #8e4083;
+    font-family: 'Times New Roman', Times, serif; /*Lettertype van de tekst*/
+    border-style: solid; /*Vorm van de border*/
+    border-color: #8e4083; /*Kleur van de border*/
 }
 
 /*opmaak van index pagina.*/
@@ -47,7 +47,7 @@ div{
 }
 
 /*Opmaak van compressie bestand.*/
-#ul2{
+#ul2{ /*Dit zijn de bullet points in het compressie bestand*/
     list-style-type: disc;
 }
 
