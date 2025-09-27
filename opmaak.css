@@ -55,11 +55,10 @@ div{
 table, td, th{
     border: 1px solid;
     border-color: #8e4083;
-    float: right;
-
 }
 table{
     border-collapse: collapse;
+    float: right;
 }
 
 
