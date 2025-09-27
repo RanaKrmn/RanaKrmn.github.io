@@ -32,7 +32,13 @@ ul li a:hover {
     background-color:#b666ab;
 }
 
-/*opmaak tekst en afbeelding homepage*/
+div{
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-color: #8e4083;
+}
+
+/*opmaak van index pagina.*/
 #p1{
     font-family: 'Times New Roman', Times, serif;
     border-style: solid;
@@ -40,16 +46,11 @@ ul li a:hover {
     width: 50%;
 }
 
-#p2{
-    font-family: 'Times New Roman', Times, serif;
-    border-style: solid;
-    border-color: #8e4083;
-}
-
-/*Opmaak van compressie bestand*/
+/*Opmaak van compressie bestand.*/
 #ul2{
     list-style-type: disc;
 }
+
 
 
 
