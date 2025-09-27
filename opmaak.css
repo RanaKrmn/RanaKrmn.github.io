@@ -47,7 +47,9 @@ ul li a:hover {
 }
 
 /*Opmaak van compressie bestand*/
-
+#ul2{
+    list-style-type: disc;
+}
 
 
 
