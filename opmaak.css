@@ -53,13 +53,14 @@ div{
 
 /*Opmaak van kleurmodel bestand*/
 table, td, th{
-    border: 10px solid;
+    border: 5px solid;
     border-color: #8e4083;
+    font-family: 'Times New Roman', Times, serif;
 }
 table{
     border-collapse: collapse;
     float: right;
-    margin-right: 50px;
+    margin-right: 150px;
 }
 
 
