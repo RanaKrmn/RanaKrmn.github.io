@@ -72,12 +72,24 @@ table{
     list-style-type: disc;
 }
 
-#pcom{ /*Opmaak van <div> in het bestand compressie*/
+#ul3{
+    list-style-type: disc;
+}
+
+#p1com{ /*Opmaak van <div> in het bestand compressie*/
     font-family: 'Times New Roman', Times, serif; 
     border-style: solid; 
     border-color: #8e4083; 
     width: 50%;
     float: left;
+}
+
+#p2com{
+    font-family: 'Times New Roman', Times, serif;
+    border-style:solid ;
+    border-color: #8e4083;
+    width: 50%;
+    float: right;
 }
 
 
