@@ -53,12 +53,13 @@ div{
 
 /*Opmaak van kleurmodel bestand*/
 table, td, th{
-    border: 1px solid;
+    border: 10px solid;
     border-color: #8e4083;
 }
 table{
     border-collapse: collapse;
     float: right;
+    margin-right: 50px;
 }
 
 
