@@ -53,7 +53,7 @@ div{
 
 /*Opmaak van kleurmodel bestand*/
 table, td, th{
-    border: 5px solid;
+    border: 3px solid;
     border-color: #8e4083;
     font-family: 'Times New Roman', Times, serif;
 }
