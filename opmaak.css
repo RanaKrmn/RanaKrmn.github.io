@@ -36,6 +36,13 @@ div{
     padding: 20px;
 }
 
+/* Container die tekst en afbeelding naast elkaar plaatst */
+.container {
+    display: flex;
+    align-items: flex-start; /* Bovenkant uitlijnen */
+    gap: 20px; /* Ruimte tussen tekst en afbeelding */
+    margin-bottom: 20px; /* Ruimte onder de container */
+}
 
 /*opmaak van index bestand.*/
 #p1{
@@ -45,6 +52,15 @@ div{
     width: 50%;
     padding: 20px;
 }
+
+/* Afbeelding netjes naast tekst en responsief */
+.music-poster {
+    width: 200px;
+    height: 200px;
+    object-fit: cover; /* voorkomt vervorming */
+    border-radius: 5px; /* optioneel, mooiere hoekjes */
+}
+
 /*Opmaak van binair stelsel bestand.*/
 #ascii{
     height: 50%;
