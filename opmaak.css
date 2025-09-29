@@ -39,7 +39,7 @@ div{
 /* Container die tekst en afbeelding naast elkaar plaatst */
 .container {                    /*Een class wordt in een CSS bestand aangetoond met een punt.*/
     display: flex;              /*Flex zorgt ervoor dat de elementen in de container makkelijk kunnen bewegen.*/
-    align-items: flex-start;    /* Zorgt ervoor dat de bovenkant wordt uitgelijnd./
+    align-items: flex-start;    /* Zorgt ervoor dat de bovenkant wordt uitgelijnd.*/
     gap: 20px;                  /* Dit geeft de ruimte aan tussen de tekst en de afbeelding*/
     margin-bottom: 20px;        /* Dit geeft de ruimte aan onder de container.*/
 }
