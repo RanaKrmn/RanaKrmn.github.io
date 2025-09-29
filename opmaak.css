@@ -73,13 +73,6 @@ th{
     background-color: #8e4083;
 }
 
-#CMYmodel{
-    height: 250px;
-    width: 290px;
-}
-
-
-
 /*Opmaak van compressie bestand.*/
 #ul2{ /*Dit zijn de bullet points in het compressie bestand*/
     list-style-type: disc;/*Dit geeft de vorm van de bullet point aan.*/
