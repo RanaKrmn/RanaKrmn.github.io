@@ -77,6 +77,10 @@ th{
     background-color: #8e4083;
 }
 
+#cmymodel{
+    width: 200;
+}
+
 /*Opmaak van compressie bestand.*/
 #ul2{ /*Dit zijn de bullet points in het compressie bestand*/
     list-style-type: disc;/*Dit geeft de vorm van de bullet point aan.*/
@@ -86,7 +90,8 @@ th{
     list-style-type: disc;
 }
 
-#p1com{ /*Opmaak van <div> in het bestand compressie*/
+ /*Opmaak van <div> in het bestand compressie*/
+#p1com{ 
     font-family: 'Times New Roman', Times, serif; 
     border-style: solid; 
     border-color: #8e4083; 
