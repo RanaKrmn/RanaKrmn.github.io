@@ -37,11 +37,11 @@ div{
 }
 
 /* Container die tekst en afbeelding naast elkaar plaatst */
-.container {
-    display: flex;
-    align-items: flex-start; /* Bovenkant uitlijnen */
-    gap: 20px; /* Ruimte tussen tekst en afbeelding */
-    margin-bottom: 20px; /* Ruimte onder de container */
+.container {                    /*Een class wordt in een CSS bestand aangetoond met een punt.*/
+    display: flex;              /*Flex zorgt ervoor dat de elementen in de container makkelijk kunnen bewegen.*/
+    align-items: flex-start;    /* Zorgt ervoor dat de bovenkant wordt uitgelijnd./
+    gap: 20px;                  /* Dit geeft de ruimte aan tussen de tekst en de afbeelding*/
+    margin-bottom: 20px;        /* Dit geeft de ruimte aan onder de container.*/
 }
 
 /*opmaak van index bestand.*/
@@ -57,8 +57,8 @@ div{
 .music-poster {
     width: 200px;
     height: 200px;
-    object-fit: cover;          /*Zorgt ervoor dat het niet gaat vervormen.*/
-    border-radius: 5px;         /*Maakt de hoekjes mooi*/
+    object-fit: cover;       /*Zorgt ervoor dat het niet gaat vervormen.*/
+    border-radius: 5px;      /*Maakt de hoekjes mooi*/
 }
 
 /* Opmaak van binair stelsel bestand */
@@ -98,8 +98,8 @@ th{
 }
 
 /*Opmaak van compressie bestand.*/
-#ul2{                           /*Dit zijn de bullet points in het compressie bestand*/
-    list-style-type: disc;      /*Dit geeft de vorm van de bullet point aan.*/
+#ul2{                               /*Dit zijn de bullet points in het compressie bestand*/
+    list-style-type: disc;          /*Dit geeft de vorm van de bullet point aan.*/
 }
 
 #ul3{
