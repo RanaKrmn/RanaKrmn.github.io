@@ -3,6 +3,7 @@ h1{color: white;                                       /* Kleur van de kopjes*/
 
 /*opmaak van menu*/
 }  
+
 #ul1 {
     list-style-type: none;      /* Dit geeft de vorm van de bullet point aan.*/
     margin: 0;                  /* Margin geeft de ruimte tussen elementen.*/
@@ -72,8 +73,6 @@ div{
 #game-container {
     margin-top: 20px;
 }
-
-
 
 /*Opmaak van kleurmodel bestand*/
 table{
