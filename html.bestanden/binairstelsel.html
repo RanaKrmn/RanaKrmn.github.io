@@ -58,7 +58,7 @@
         1 → waarde 4<br>
 
         <p>
-            Het spel Binary Bonanza kan je helpen bij het leren van het binair stelsel en kan je jezelf uitdagen.
+            Als je op de afbeelding van de ASCII klikt, kom je bij een spe
         </p>
         <br>
 
@@ -71,18 +71,19 @@
     </div>
 
     <!-- Klikbare afbeelding -->
-    <img id="ascii" src="/images/ascii.jpeg" alt="ASCII tabel" onclick="showGame()">
+    <img id="ascii" src="/images/asciitabel.jpg" alt="ASCII tabel" onclick="showGame()"><!--De onclick zorgt ervoor dat de functie showgame start.-->
 
     <!-- Hier verschijnt het spel na klikken -->
-    <div id="game-container"></div>
+    <div id="game-container"></div><!--De <div> maakt een lege container aan, zodat het spel er in kan. Als er op de afbeelding wordt geklikt. Dit geeft een definitie aan de container.-->
 
     <!-- JavaScript -->
+
     <script>
-        function showGame() {
-            const container = document.getElementById('game-container');
+        function showGame() { //Deze functie haalt het spel op. De functie zijn de stappen die de computer moet doorlopen om het spel zichtbaar te maken als je op de afbeelding klikt.
+            const container = document.getElementById('game-container'); // Deze regel zorgt ervoor dat de container dat gemaakt is in htm ook gebruikt kan worden javascript door een nieuwe variabele aan te maken.
 
             // Voeg het spel toe als het nog niet zichtbaar is
-            if (!container.innerHTML) {
+            if (!container.innerHTML) { //Als de container leeg staat, dan vervult de computer deze functie, zodat het spel in de container komt te staan. De uitroepteken wordt gebruikt om te laten zien dat de container leeg staat.
                 container.innerHTML = `
                     <iframe 
                         src="https://games.penjee.com/binary-bonanza/game.php" 
@@ -95,6 +96,7 @@
             }
         }
     </script>
+    <!--De opmaak van het spel zit niet in het CSS bestand, want dit was makkelijker om het in het html bestand te doen. -->
 
 </body>
 </html>
