@@ -1,17 +1,14 @@
 h1{color: white; /*Kleur van de kopjes*/
-    font-family: 'Times New Roman', Times, serif;
-
-/* Dit is commentaar voor css*/
+    font-family: 'Times New Roman', Times, serif;/*Dit geeft het lettertype aan.*/
 
 /*opmaak van menu*/
 }  
 #ul1 {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
+    list-style-type: none;/*Dit geeft de vorm van de bullet point aan.*/
+    margin: 0;/*Margin geeft de ruimte tussen elementen.*/
+    padding: 0;/*Padding geeft de ruimte tussen de inhoud en de border van het element aan.*/
     overflow: hidden;
-    background-color: #8e4083;
-    
+    background-color: #8e4083;   
 }
 
 ul li {
@@ -78,14 +75,14 @@ th{
 
 #CMYmodel{
     height: 250px;
-    width: 250px;
+    width: 290px;
 }
 
 
 
 /*Opmaak van compressie bestand.*/
 #ul2{ /*Dit zijn de bullet points in het compressie bestand*/
-    list-style-type: disc;
+    list-style-type: disc;/*Dit geeft de vorm van de bullet point aan.*/
 }
 
 #ul3{
