@@ -36,6 +36,7 @@ div{
     font-family: 'Times New Roman', Times, serif; /*Lettertype van de tekst*/
     border-style: solid; /*Vorm van de border*/
     border-color: #8e4083; /*Kleur van de border*/
+    padding: 20px;
 }
 
 
