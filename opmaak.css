@@ -46,10 +46,11 @@ div{
     padding: 20px;
 }
 /*Opmaak van binair stelsel bestand.*/
-#ASCII{
-    width: 50%;
+#ascii{
     height: 50%;
+    width: 50%;
 }
+
 
 
 
@@ -100,7 +101,7 @@ th{
 }
 
 #pixels{
-    padding-top: 3px;
+    padding-top: 5px;
 }
 
 
