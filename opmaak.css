@@ -1,12 +1,12 @@
-h1{color: white; /*Kleur van de kopjes*/
-    font-family: 'Times New Roman', Times, serif;/*Dit geeft het lettertype aan.*/
+h1{color: white;                                       /*Kleur van de kopjes*/
+    font-family: 'Times New Roman', Times, serif;        /*Dit geeft het lettertype aan.*/
 
 /*opmaak van menu*/
 }  
 #ul1 {
-    list-style-type: none;/*Dit geeft de vorm van de bullet point aan.*/
-    margin: 0;/*Margin geeft de ruimte tussen elementen.*/
-    padding: 0;/*Padding geeft de ruimte tussen de inhoud en de border van het element aan.*/
+    list-style-type: none;      /*Dit geeft de vorm van de bullet point aan.*/
+    margin: 0;                  /*Margin geeft de ruimte tussen elementen.*/
+    padding: 0;                 /*Padding geeft de ruimte tussen de inhoud en de border van het element aan.*/
     overflow: hidden;
     background-color: #8e4083;   
 }
@@ -30,9 +30,9 @@ ul li a:hover {
 }
 
 div{
-    font-family: 'Times New Roman', Times, serif; /*Lettertype van de tekst*/
-    border-style: solid; /*Vorm van de border*/
-    border-color: #8e4083; /*Kleur van de border*/
+    font-family: 'Times New Roman', Times, serif;       /*Lettertype van de tekst*/
+    border-style: solid;                                /*Vorm van de border*/
+    border-color: #8e4083;                            /*Kleur van de border*/
     padding: 20px;
 }
 
@@ -57,15 +57,15 @@ div{
 .music-poster {
     width: 200px;
     height: 200px;
-    object-fit: cover; /* voorkomt vervorming */
-    border-radius: 5px; /* optioneel, mooiere hoekjes */
+    object-fit: cover;          /*Zorgt ervoor dat het niet gaat vervormen.*/
+    border-radius: 5px;         /*Maakt de hoekjes mooi*/
 }
 
 /* Opmaak van binair stelsel bestand */
 #ascii {
-    width: 700px;        /* vaste breedte, makkelijk aan te passen */
-    height: auto;        /* hoogte past zich automatisch aan, behoudt verhouding */
-    cursor: pointer;     /* handje bij hover, want klikbaar */
+    width: 700px;           
+    height: auto;           /* De auto zorgt ervoor dat de hoogte zich automatisch aanpast.*/
+    cursor: pointer;        /* Als je over de afbeelding heen gaat verandert de cursor in een handje. Dat laat zien dat het klikbaar is.
 }
 
 
@@ -98,8 +98,8 @@ th{
 }
 
 /*Opmaak van compressie bestand.*/
-#ul2{ /*Dit zijn de bullet points in het compressie bestand*/
-    list-style-type: disc;/*Dit geeft de vorm van de bullet point aan.*/
+#ul2{                           /*Dit zijn de bullet points in het compressie bestand*/
+    list-style-type: disc;      /*Dit geeft de vorm van de bullet point aan.*/
 }
 
 #ul3{
@@ -124,8 +124,3 @@ th{
 #pixels{
     padding-top: 5px;
 }
-
-
-
-
-
