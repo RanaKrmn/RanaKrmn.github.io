@@ -68,6 +68,17 @@ div{
     cursor: pointer;        /* Als je over de afbeelding heen gaat verandert de cursor in een handje. Dat laat zien dat het klikbaar is.*/
 }
 
+#ascii {
+    width: 400px;      /* vaste breedte */
+    height: auto;      /* behoud verhoudingen */
+    cursor: pointer;   /* handje bij hover */
+    margin-top: 20px;
+}
+
+#game-container {
+    margin-top: 20px;
+}
+
 
 
 /*Opmaak van kleurmodel bestand*/
