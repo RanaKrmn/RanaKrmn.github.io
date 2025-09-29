@@ -63,12 +63,10 @@ div{
 
 /* Opmaak van binair stelsel bestand */
 #ascii {
-    width: 600px;        /* vaste breedte, makkelijk aan te passen */
+    width: 700px;        /* vaste breedte, makkelijk aan te passen */
     height: auto;        /* hoogte past zich automatisch aan, behoudt verhouding */
     cursor: pointer;     /* handje bij hover, want klikbaar */
 }
-
-
 
 
 
