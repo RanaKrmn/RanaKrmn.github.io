@@ -46,7 +46,10 @@ div{
     padding: 20px;
 }
 /*Opmaak van binair stelsel bestand.*/
-
+#ASCII{
+    width: 50%;
+    height: 50%;
+}
 
 
 
