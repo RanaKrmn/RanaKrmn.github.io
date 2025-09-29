@@ -54,17 +54,27 @@ div{
 
 
 /*Opmaak van kleurmodel bestand*/
+table{
+    border-collapse: collapse;
+}
 table, td, th{
     border: 3px solid;
     border-color: #8e4083;
     font-family: 'Times New Roman', Times, serif;
 }
-table{
-    border-collapse: collapse;
-    float: right;
-    margin-right: 250px;
+td, th{
+    border: 1px solid;
+    padding: 8px;
 }
-
+tr:hover{
+    background-color: #b666ab;
+}
+th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #8e4083;
+    color: white;
+}
 
 
 
