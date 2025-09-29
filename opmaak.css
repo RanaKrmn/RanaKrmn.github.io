@@ -65,7 +65,7 @@ div{
 #ascii {
     width: 700px;           
     height: auto;           /* De auto zorgt ervoor dat de hoogte zich automatisch aanpast.*/
-    cursor: pointer;        /* Als je over de afbeelding heen gaat verandert de cursor in een handje. Dat laat zien dat het klikbaar is.
+    cursor: pointer;        /* Als je over de afbeelding heen gaat verandert de cursor in een handje. Dat laat zien dat het klikbaar is.*/
 }
 
 
