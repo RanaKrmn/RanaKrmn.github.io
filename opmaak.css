@@ -63,15 +63,9 @@ div{
 
 /* Opmaak van binair stelsel bestand */
 #ascii {
-    width: 700px;           
-    height: auto;           /* De auto zorgt ervoor dat de hoogte zich automatisch aanpast.*/
-    cursor: pointer;        /* Als je over de afbeelding heen gaat verandert de cursor in een handje. Dat laat zien dat het klikbaar is.*/
-}
-
-#ascii {
-    width: 400px;      /* vaste breedte */
-    height: auto;      /* behoud verhoudingen */
-    cursor: pointer;   /* handje bij hover */
+    width: 700px;      
+    height: auto;      /* De auto zorgt ervoor dat de hoogte zich automatisch aanpast.*/
+    cursor: pointer;   /* Als je over de afbeelding heen gaat verandert de cursor in een handje. Dat laat zien dat het klikbaar is.*/
     margin-top: 20px;
 }
 
