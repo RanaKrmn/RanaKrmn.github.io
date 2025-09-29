@@ -56,6 +56,7 @@ div{
 /*Opmaak van kleurmodel bestand*/
 table{
     border-collapse: collapse;
+    padding: 20px;
 }
 table, td, th{
     border: 3px solid;
