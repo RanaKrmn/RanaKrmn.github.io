@@ -1,12 +1,12 @@
-h1{color: white;                                       /*Kleur van de kopjes*/
-    font-family: 'Times New Roman', Times, serif;        /*Dit geeft het lettertype aan.*/
+h1{color: white;                                       /* Kleur van de kopjes*/
+    font-family: 'Times New Roman', Times, serif;        /* Dit geeft het lettertype aan.*/
 
 /*opmaak van menu*/
 }  
 #ul1 {
-    list-style-type: none;      /*Dit geeft de vorm van de bullet point aan.*/
-    margin: 0;                  /*Margin geeft de ruimte tussen elementen.*/
-    padding: 0;                 /*Padding geeft de ruimte tussen de inhoud en de border van het element aan.*/
+    list-style-type: none;      /* Dit geeft de vorm van de bullet point aan.*/
+    margin: 0;                  /* Margin geeft de ruimte tussen elementen.*/
+    padding: 0;                 /* Padding geeft de ruimte tussen de inhoud en de border van het element aan.*/
     overflow: hidden;
     background-color: #8e4083;   
 }
@@ -30,15 +30,15 @@ ul li a:hover {
 }
 
 div{
-    font-family: 'Times New Roman', Times, serif;       /*Lettertype van de tekst*/
-    border-style: solid;                                /*Vorm van de border*/
-    border-color: #8e4083;                            /*Kleur van de border*/
+    font-family: 'Times New Roman', Times, serif;       /* Lettertype van de tekst*/
+    border-style: solid;                                /* Vorm van de border*/
+    border-color: #8e4083;                            /* Kleur van de border*/
     padding: 20px;
 }
 
 /* Container die tekst en afbeelding naast elkaar plaatst */
-.container {                    /*Een class wordt in een CSS bestand aangetoond met een punt.*/
-    display: flex;              /*Flex zorgt ervoor dat de elementen in de container makkelijk kunnen bewegen.*/
+.container {                    /* Een class wordt in een CSS bestand aangetoond met een punt.*/
+    display: flex;              /* Flex zorgt ervoor dat de elementen in de container makkelijk kunnen bewegen.*/
     align-items: flex-start;    /* Zorgt ervoor dat de bovenkant wordt uitgelijnd.*/
     gap: 20px;                  /* Dit geeft de ruimte aan tussen de tekst en de afbeelding*/
     margin-bottom: 20px;        /* Dit geeft de ruimte aan onder de container.*/
