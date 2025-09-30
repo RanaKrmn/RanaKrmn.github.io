@@ -37,6 +37,11 @@ div{
     padding: 20px;
 }
 
+footer{
+    background-color:#b666ab;
+    
+}
+
 /* Container die tekst en afbeelding naast elkaar plaatst */
 .container {                    /* Een class wordt in een CSS bestand aangetoond met een punt.*/
     display: flex;              /* Flex zorgt ervoor dat de elementen in de container makkelijk kunnen bewegen.*/
