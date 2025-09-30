@@ -38,7 +38,8 @@ div{
 }
 
 footer{
-    background-color:#b666ab;
+    background-color:#8e4083;
+    color: white;
     padding: 20px;
     position: fixed;
 }
