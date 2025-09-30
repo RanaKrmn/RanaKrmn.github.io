@@ -131,8 +131,9 @@ th{
 #p2com{
     font-family: 'Times New Roman', Times, serif;
     border-style:solid ;
-    border-color:#b666ab;
+    border-color:#8e4083;
     float: left;
+    background-color: #b666ab;
 }
 
 #pixels{
