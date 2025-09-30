@@ -101,7 +101,8 @@ th{
 }
 
 #cmymodel{
-    width: 200;
+    width: 300px;
+    height: auto;
 }
 
 /*Opmaak van compressie bestand.*/
