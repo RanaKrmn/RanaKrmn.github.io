@@ -38,7 +38,12 @@ div{
 }
 
 footer{
-    background-color:#8e4083;
+    background-color:#b666ab;
+    padding: 20px;
+}
+
+#footerid{
+    background-color: #b666ab;
     padding: 20px;
 }
 
