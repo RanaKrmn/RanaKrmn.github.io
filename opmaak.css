@@ -42,10 +42,6 @@ footer{
     padding: 20px;
 }
 
-#footerid{
-    background-color: #b666ab;
-    padding: 20px;
-}
 
 /* Container die tekst en afbeelding naast elkaar plaatst */
 .container {                    /* Een class wordt in een CSS bestand aangetoond met een punt.*/
@@ -137,6 +133,7 @@ th{
     border-style:solid ;
     border-color:#8e4083;
     float: left;
+    background-color: #b666ab;
 }
 
 #pixels{
